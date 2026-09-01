@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/git_hub_profile_name/repo_name",
+  "homepage": "https://github.com/Ivan-Malakhovskyi/vanilla_redux",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
