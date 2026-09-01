@@ -1,0 +1,31 @@
+{
+  "name": "practise_vanilla_redux",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "homepage": "https://github.com/git_hub_profile_name/repo_name",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "oxlint",
+    "preview": "vite preview",
+    "deploy": "gh-pages -d dist"
+  },
+  "dependencies": {
+    "clsx": "^2.1.1",
+    "gh-pages": "^6.3.0",
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7",
+    "react-icons": "^5.6.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.29.7",
+    "@rolldown/plugin-babel": "^0.2.3",
+    "@types/react": "^19.2.17",
+    "@types/react-dom": "^19.2.3",
+    "@vitejs/plugin-react": "^6.0.2",
+    "babel-plugin-react-compiler": "^1.0.0",
+    "oxlint": "^1.69.0",
+    "vite": "^8.1.0"
+  }
+}
