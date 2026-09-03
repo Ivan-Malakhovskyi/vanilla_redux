@@ -8,6 +8,7 @@ export const Task = ({ task }) => {
         type="checkbox"
         className={css.checkbox}
         checked={task.completed}
+        onChange={(e) => {}}
       />
       <p className={css.text}>{task.text}</p>
       <button className={css.btn}>

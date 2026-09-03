@@ -5,6 +5,14 @@ export const TaskForm = () => {
   const handleSubmit = (event) => {
     event.preventDefault();
     const form = event.target;
+    const value = form.elements.text.value;
+
+    if (!value) {
+      alert("Enter task name");
+      debugger;
+      return;
+    }
+
     form.reset();
   };
 
