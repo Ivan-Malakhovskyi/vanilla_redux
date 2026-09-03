@@ -455,3 +455,5 @@ export const rootReducer = combineReducers({
 **імпортувати в store**
 
 ###### Debugger
+
+###### Add index file
