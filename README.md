@@ -1,9 +1,19 @@
 # Q&A
 
-1. What is redux ?
+1. What is redux ? - Global state, props drilling
 2. Flow data in redux vs react ?
 3. Explain flow data on schema in notes ?
 4. Advantages/disadvantages ?
+
+disadvantages
+
+1. New library
+2. Boilerplate code
+
+Advantages
+
+1. Global state
+2. Community
 
 ## Getting started
 
